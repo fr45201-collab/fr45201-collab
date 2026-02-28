@@ -10,8 +10,8 @@
 - 📌 Solving **Data Structures & Algorithms (C++)** daily  
 - 🤖 Building **Machine Learning models in Python** from scratch  
 - 🧪 Experimenting with data preprocessing, optimization, and evaluation  
+- 🦾 Exploring **Robotics fundamentals** — sensors, microcontrollers, and basic autonomous systems  
 - 📚 Strengthening fundamentals in algorithms, math, and ML concepts
-
 ## 🧠 About Me  
 
 - 🔍 Exploring **AI & Machine Learning concepts** with hands-on Python projects  
