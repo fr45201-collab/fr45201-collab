@@ -9,14 +9,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fr45201-collab&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fr45201-collab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr45201-collab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr45201-collab&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
----
-
 ## 🧠 About Me  
 
 - 🔍 Exploring **AI & Machine Learning concepts** with hands-on Python projects  
