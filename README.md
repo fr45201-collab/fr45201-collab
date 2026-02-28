@@ -9,18 +9,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fr45201-collab&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr45201-collab&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fr45201-collab&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
----
-
-## 🔥 Consistency
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fr45201-collab&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fr45201-collab&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 🧠 About Me  
