@@ -13,22 +13,21 @@
 
 ---
 
-⚒️ Tech Stack
+## ⚒️ Tech Stack
 
-"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python)
-"Pandas" (https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
-"NumPy" (https://img.shields.io/badge/NumPy-Numerical-blue?logo=numpy)
-"Scikit-learn" (https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikit-learn)
-"Matplotlib" (https://img.shields.io/badge/Matplotlib-Visualization-green)
-"Seaborn" (https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue?logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)
 ---
 
-🧑‍💻 Languages
+## 🧑‍💻 Languages
 
-"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python)
-"C++" (https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)
-"JavaScript" (https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
 
 ---
 
