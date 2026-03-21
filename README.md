@@ -1,92 +1,94 @@
-# Hi 👋, I'm Faizan Raza  
+👋 Hi, I'm Faizan Raza
 
-🚀 **Student | AI/ML Enthusiast | DSA Practitioner**  
-💻 Building strong fundamentals in **Artificial Intelligence & Machine Learning (Python)**  
-🧩 Strengthening problem-solving skills through **Data Structures & Algorithms (C++)**  
-
----
-## 🚀 What I'm Working On
-
-- 📌 Solving **Data Structures & Algorithms (C++)** daily  
-- 🤖 Building **Machine Learning models in Python** from scratch  
-- 🧪 Experimenting with data preprocessing, optimization, and evaluation  
-- 🦾 Exploring **Robotics fundamentals** — sensors, microcontrollers, and basic autonomous systems  
-- 📚 Strengthening fundamentals in algorithms, math, and ML concepts
-## 🧠 About Me  
-
-- 🔍 Exploring **AI & Machine Learning concepts** with hands-on Python projects  
-- 🧩 Solving **DSA problems in C++**, focusing on logic, optimization, and performance  
-- 🛠️ Interested in how **algorithms, data, and code** work together to solve real-world problems  
-- 📚 Believe in **deep understanding over shortcuts**  
-
-> *“Code is not just written — it evolves.”*
+🚀 Aspiring AI/ML Engineer | 💻 DSA Enthusiast | 🧠 Problem Solver
 
 ---
 
-## 🤖 AI / Machine Learning (Python)
+🧠 About Me
 
-- Implementing ML algorithms from scratch  
-- Working on:
-  - Data preprocessing & feature engineering  
-  - Model training & evaluation  
-  - Experimentation using version control  
-- Areas of interest:
-  - Supervised Learning  
-  - Optimization techniques  
-  - Practical ML workflows  
-
-🧪 Focused on **learning, experimentation, and clarity**, not just final accuracy.
+- 🎯 Focused on Artificial Intelligence & Machine Learning
+- 📊 Passionate about data, models, and real-world problem solving
+- 🧩 Strong interest in Data Structures & Algorithms
+- 🚀 Building projects that combine logic + intelligence
 
 ---
 
-## ⚙️ Data Structures & Algorithms (C++)
+⚒️ Tech Stack
 
-- Practicing:
-  - Arrays, Strings, Linked Lists  
-  - Stacks, Queues, Hashing  
-  - Trees & Graphs  
-  - Dynamic Programming  
-- Approach:
-  - Start with brute force  
-  - Optimize step-by-step  
-  - Analyze **time & space complexity**
-
-📌 Solutions show **thinking progression**, not just answers.
+"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python)
+"Pandas" (https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
+"NumPy" (https://img.shields.io/badge/NumPy-Numerical-blue?logo=numpy)
+"Scikit-learn" (https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikit-learn)
+"Matplotlib" (https://img.shields.io/badge/Matplotlib-Visualization-green)
+"Seaborn" (https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)
 
 ---
 
-## 🛠️ Tech Stack
+🧑‍💻 Languages
 
-- **Languages:** Python, C++  
-- **Tools:** Git, GitHub, VS Code  
-- **Core Concepts:**  
-  - Algorithms & Complexity  
-  - Version Control  
-  - Clean & readable code  
+"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python)
+"C++" (https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)
+"JavaScript" (https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
 
 ---
 
-## 🌱 Currently Learning
+🚀 Featured Projects
 
-- Advanced ML concepts & better experimentation practices  
-- Writing cleaner, more efficient C++ solutions  
-- Using Git & GitHub like a professional developer  
+💎 Diamond Price Prediction
 
----
-
-## 🌐 Connect With Me
-
-- 🌍 **Portfolio:** https://faizan-studio.vercel.app  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/faizan-raza-b24436397  
-- 📧 **Email:** faizandev727@gmail.com  
+👉 Machine Learning project to analyze and predict diamond prices
+🔹 Exploratory Data Analysis (EDA)
+🔹 Data Visualization
+🔹 Random Forest Model
+🔹 Feature Importance Analysis
+🔹 Model Evaluation (MAE, R² Score)
+🔹 Automated PDF Report Generation
 
 ---
 
-## 📌 GitHub Philosophy
+🎬 Movie Recommender System
 
-- ✔️ Meaningful commits  
-- ✔️ Clean history  
-- ✔️ Learning in public  
-- ✔️ Consistency over hype  
+👉 Recommends movies using similarity algorithms
 
-⭐ *Always improving, one commit at a time.*
+---
+
+🤖 Jarvis AI Assistant
+
+👉 Voice-based AI assistant using Python
+
+---
+
+📊 Shortest Path Visualizer
+
+👉 DSA project to visualize pathfinding algorithms
+
+---
+
+📈 Currently Learning
+
+- 🔥 Advanced ML concepts & better experimentation
+- ⚡ Writing cleaner and more efficient C++ code
+- 🧠 Using Git & GitHub like a professional developer
+
+---
+
+📫 Contact
+
+- 🌐 Portfolio: https://faizan-studio.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/faizan-raza-b24436397
+- 📧 Email: faizandev727@gmail.com
+
+---
+
+⚡ GitHub Philosophy
+
+- ✔ Meaningful commits
+- ✔ Clean project structure
+- ✔ Learning in public
+- ✔ Consistency over hype
+
+---
+
+💡 Fun Fact
+
+«“I don’t just write code, I build intelligent solutions.” 🚀»
