@@ -1,6 +1,7 @@
 👋 Hi, I'm Faizan Raza
 
-🚀 Aspiring AI/ML Engineer | 💻 DSA Enthusiast | 🧠 Problem Solver
+🚀 AI/ML Engineer | ⚡ DSA Practitioner | 🧠 Problem Solver  
+💡 I turn data into decisions and logic into intelligent solutions.
 
 ---
 
