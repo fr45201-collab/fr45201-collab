@@ -18,9 +18,9 @@ About Me
 
 Favorite Languages
 
-![C++](https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-Development-blue?logo=python)
-![Rust](https://img.shields.io/badge/Rust-Systems%20Programming-black?logo=rust)
+![C++](https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)<br>
+![Python](https://img.shields.io/badge/Python-Development-blue?logo=python)<br>
+![Rust](https://img.shields.io/badge/Rust-Systems%20Programming-black?logo=rust)<br>
 
 ---
 
@@ -58,10 +58,10 @@ Development Philosophy
 
 Tools & Technologies
 
-![Linux](https://img.shields.io/badge/Linux-Development-black?logo=linux)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-black?logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-Editor-blue?logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/Linux-Development-black?logo=linux)<br>
+![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)<br>
+![GitHub](https://img.shields.io/badge/GitHub-Projects-black?logo=github)<br>
+![VSCode](https://img.shields.io/badge/VSCode-Editor-blue?logo=visualstudiocode)<br>
 
 ---
 
