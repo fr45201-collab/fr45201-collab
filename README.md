@@ -1,94 +1,76 @@
-👋 Hi, I'm Faizan Raza
+Hi, I'm Faizan Raza
 
-🚀 AI/ML Engineer | ⚡ DSA Practitioner | 🧠 Problem Solver  
-💡 I turn data into decisions and logic into intelligent solutions.
+Computer Science Student • Systems Learner • Problem Solver
 
----
-
-🧠 About Me
-
-- 🎯 Focused on Artificial Intelligence & Machine Learning
-- 📊 Passionate about data, models, and real-world problem solving
-- 🧩 Strong interest in Data Structures & Algorithms
-- 🚀 Building projects that combine logic + intelligence
+I enjoy learning how computers work internally and building software that combines logic, performance, and practical engineering.
 
 ---
 
-## ⚒️ Tech Stack
+About Me
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue?logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)
----
-
-## 🧑‍💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![C++](https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+- Exploring Computer Science fundamentals deeply
+- Interested in Systems Programming, AI/ML, and Software Engineering
+- Practicing Data Structures & Algorithms in C++
+- Learning Linux, Git, and low-level concepts step by step
+- Focused on building strong fundamentals instead of rushing technologies
 
 ---
 
-🚀 Featured Projects
+Favorite Languages
 
-💎 Diamond Price Prediction
-
-👉 Machine Learning project to analyze and predict diamond prices
-🔹 Exploratory Data Analysis (EDA)
-🔹 Data Visualization
-🔹 Random Forest Model
-🔹 Feature Importance Analysis
-🔹 Model Evaluation (MAE, R² Score)
-🔹 Automated PDF Report Generation
+"C++" (https://img.shields.io/badge/C++-Programming-blue?logo=cplusplus)
+"Python" (https://img.shields.io/badge/Python-Development-blue?logo=python)
+"Rust" (https://img.shields.io/badge/Rust-Systems%20Programming-black?logo=rust)
 
 ---
 
-🎬 Movie Recommender System
+Currently Learning
 
-👉 Recommends movies using similarity algorithms
-
----
-
-🤖 Jarvis AI Assistant
-
-👉 Voice-based AI assistant using Python
-
----
-
-📊 Shortest Path Visualizer
-
-👉 DSA project to visualize pathfinding algorithms
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Systems Programming
+- Machine Learning Fundamentals
+- Linux & Command Line
+- Git & GitHub Workflow
+- Writing cleaner and more efficient code
 
 ---
 
-📈 Currently Learning
+Interests
 
-- 🔥 Advanced ML concepts & better experimentation
-- ⚡ Writing cleaner and more efficient C++ code
-- 🧠 Using Git & GitHub like a professional developer
-
----
-
-📫 Contact
-
-- 🌐 Portfolio: https://faizan-studio.vercel.app
-- 💼 LinkedIn: https://www.linkedin.com/in/faizan-raza-b24436397
-- 📧 Email: faizandev727@gmail.com
+- Operating Systems
+- Artificial Intelligence
+- Backend Development
+- Performance Optimization
+- Low-Level Programming
+- Problem Solving
 
 ---
 
-⚡ GitHub Philosophy
+Development Philosophy
 
-- ✔ Meaningful commits
-- ✔ Clean project structure
-- ✔ Learning in public
-- ✔ Consistency over hype
+- Learn deeply, not quickly
+- Consistency over motivation
+- Build → Break → Learn → Improve
+- Strong fundamentals before advanced abstractions
 
 ---
 
-💡 Fun Fact
+Tools & Technologies
 
-«“I don’t just write code, I build intelligent solutions.” 🚀»
+"Linux" (https://img.shields.io/badge/Linux-Development-black?logo=linux)
+"Git" (https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
+"GitHub" (https://img.shields.io/badge/GitHub-Projects-black?logo=github)
+"VSCode" (https://img.shields.io/badge/VSCode-Editor-blue?logo=visualstudiocode)
+
+---
+
+Connect With Me
+
+- Portfolio: https://faizan-studio.vercel.app
+- LinkedIn: https://www.linkedin.com/in/faizan-raza-b24436397
+- Email: faizandev727@gmail.com
+
+---
+
+«“Every expert was once a beginner who refused to quit.”»
